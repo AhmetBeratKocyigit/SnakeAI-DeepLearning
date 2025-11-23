@@ -32,8 +32,8 @@ The AI uses a **Linear QNet** with **Experience Replay**, optimized to solve the
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/snake-ai-pytorch.git](https://github.com/yourusername/snake-ai-pytorch.git)
-    cd snake-ai-pytorch
+    git clone [[https://github.com/yourusername/snake-ai-pytorch.git](https://github.com/yourusername/snake-ai-pytorch.git)](https://github.com/AhmetBeratKocyigit/SnakeAI-DeepLearning)
+    cd SnakeAI-DeepLearning
     ```
 
 2.  **Install dependencies:**
